@@ -1,4 +1,4 @@
-# API com Node, TS e Typeorm
+# API com Node, TS e TypeORM🌐✅🪲🛠️👩‍💻
 
 ## Como inicializar a aplicação
 
@@ -12,7 +12,7 @@
     npm typeorm migration:run
 ---
 
-### Comandos uteis para criar o projeto do zero
+***Comandos Uteis Para Criar O Projeto Do Zero***
 
 - npm init --y
 - npm i typescript ts-node-dev -D
@@ -21,3 +21,4 @@
 - npm i @types/express @types/uuid -D
 - npm i jest @types/jest ts-jest -D
 - npm jest --init
+ 
